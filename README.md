@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything I may be of use on. 
 - 📫 How to reach me - joshmarkevans@gmail.com
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=EdelweissPirate)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=EdelweissPirate&rank=SSS,SS,S,AAA,AA,A,B,C&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 EdelweissPirate/EdelweissPirate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
