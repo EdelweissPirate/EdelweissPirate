@@ -7,7 +7,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=EdelweissPirate&rank=SSS,SS,S,AAA,AA,A,B,C&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdelweissPirate)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdelweissPirate&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 EdelweissPirate/EdelweissPirate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
