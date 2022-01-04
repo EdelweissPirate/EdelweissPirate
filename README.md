@@ -1,8 +1,3 @@
-<style>
-table, th, td {
-    padding: 1px;
-}
-</style>
 
 |!WELCOME!|
 |:-----------------:|
@@ -13,7 +8,6 @@ table, th, td {
 |[![trophy](https://github-profile-trophy.vercel.app/?username=EdelweissPirate&rank=SSS,SS,S,AAA,AA,A,B,C&theme=gruvbox&column=3)](https://github.com/ryo-ma/github-profile-trophy)|
 | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdelweissPirate&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)|
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdelweissPirate&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)|
-{:.custom-table}
 
 
 <!---
