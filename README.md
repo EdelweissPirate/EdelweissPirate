@@ -1,12 +1,13 @@
-|Presets|
+|!WELCOME!|
 |-----------------|
-|Gears: Cracked or broken tooth - _default_|
-|Gears: Eccentricity & backlash|
-|Gears: Hunting Tooth|
-|Gears: Misalignment|
+|Hi I'm Josh|
+|I’m interested in Javascript, HTML, CSS, SASS, React, Solidity, Blender, and Unreal Engine.|
+|I’m currently learning Solidity, React, Blender, and Unreal Engine.|
+|📫 How to reach me - joshmarkevans@gmail.com 📫|
+|[![trophy](https://github-profile-trophy.vercel.app/?username=EdelweissPirate&rank=SSS,SS,S,AAA,AA,A,B,C&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)|
 |Gears: Tooth Load|
 |Gears: Tooth wear|
-
+  
 
 - 👋 Hi, I’m @EdelweissPirate
 - 👀 I’m interested in Javascript, HTML, CSS, SASS, React, Solidity, Blender, and Unreal Engine.
