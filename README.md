@@ -1,3 +1,4 @@
+<center>
 |!WELCOME!|
 |-----------------|
 |Hi I'm Josh|
@@ -7,6 +8,8 @@
 |[![trophy](https://github-profile-trophy.vercel.app/?username=EdelweissPirate&rank=SSS,SS,S,AAA,AA,A,B,C&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdelweissPirate&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)|
 |Gears: Tooth Load|
 |Gears: Tooth wear|
+
+  </center>
   
 
 - 👋 Hi, I’m @EdelweissPirate
