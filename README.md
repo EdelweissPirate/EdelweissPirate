@@ -1,3 +1,13 @@
+|Presets|
+|-----------------|
+|Gears: Cracked or broken tooth - _default_|
+|Gears: Eccentricity & backlash|
+|Gears: Hunting Tooth|
+|Gears: Misalignment|
+|Gears: Tooth Load|
+|Gears: Tooth wear|
+
+
 - 👋 Hi, I’m @EdelweissPirate
 - 👀 I’m interested in Javascript, HTML, CSS, SASS, React, Solidity, Blender, and Unreal Engine.
 - 🌱 I’m currently learning Solidity, React, Blender, and Unreal Engine.
