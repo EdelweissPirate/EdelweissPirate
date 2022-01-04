@@ -1,8 +1,7 @@
 
-#WELCOME!
-|TEST|
-|:-----------------:|
+# !WELCOME!
 |Hi I'm Josh|
+|:-----------------:|
 |I’m interested in Javascript, HTML, CSS, SASS, React, Solidity, Blender, and Unreal Engine.|
 |I’m currently learning Solidity, React, Blender, and Unreal Engine.|
 |📫 How to reach me - joshmarkevans@gmail.com 📫|
