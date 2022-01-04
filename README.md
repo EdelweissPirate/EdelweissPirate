@@ -4,6 +4,32 @@
 
 <br>
 
+
+<div align="center">
+  <h2 align="center">📚 STATS 📚</h2>
+</div>
+
+<br>
+  
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=EdelweissPirate&rank=SSS,SS,S,AAA,AA,A,B,C&theme=gruvbox&column=3" />
+  </a>
+</div>
+  
+<br>
+ 
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=EdelweissPirate&count_private=true&show_icons=true&theme=gruvbox&include_all_commits" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdelweissPirate&theme=gruvbox" />
+  </a>
+</div>
+
+<br>
+
 <div align="center">
 <h1 align="center">
 📫 How to reach me - joshmarkevans@gmail.com 📫
@@ -45,31 +71,6 @@ Unreal Engine<h4>
 <div align="center">
 <h4 align="center">Solidity<br>
 More React</h4>
-</div>
-  
-<br>
-  
-<div align="center">
-  <h2 align="center">📚 STATS 📚</h2>
-</div>
-
-<br>
-  
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=EdelweissPirate&rank=SSS,SS,S,AAA,AA,A,B,C&theme=gruvbox&column=3" />
-  </a>
-</div>
-  
-<br>
- 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=EdelweissPirate&count_private=true&show_icons=true&theme=gruvbox&include_all_commits" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdelweissPirate&theme=gruvbox" />
-  </a>
 </div>
 
 
