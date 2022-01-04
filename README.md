@@ -13,7 +13,7 @@
 <br>
 
 <div align="center">
-<h2 align="center">🔻 BIO 🔻</h2>
+<h2 align="center">🧔 BIO 🧔</h2>
 </div>
 
 <div align="center">
@@ -23,7 +23,7 @@
 <br>
 
 <div align="center">
-<h2 align="center">🔻 PROFICIENCIES 🔻</h2>
+<h2 align="center">🥇 PROFICIENCIES 🥇</h2>
 </div>
 
 <div align="center">
@@ -39,7 +39,7 @@ Unreal Engine<h4>
 <br>
 
 <div align="center">
-<h2 align="center">🔻 LEARNING 🔻</h2>
+<h2 align="center">🧮 LEARNING 🧮</h2>
 </div>
 
 <div align="center">
@@ -50,7 +50,7 @@ More React</h4>
 <br>
   
 <div align="center">
-  <h2 align="center">🔻 STATS 🔻</h2>
+  <h2 align="center">📚 STATS 📚</h2>
 </div>
 
 <br>
