@@ -1,5 +1,5 @@
 
-|!WELCOME!|
+#WELCOME!
 |:-----------------:|
 |Hi I'm Josh|
 |I’m interested in Javascript, HTML, CSS, SASS, React, Solidity, Blender, and Unreal Engine.|
