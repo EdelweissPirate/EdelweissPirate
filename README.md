@@ -43,7 +43,7 @@
 </div>
 
 <div align="center">
-<h3 align="center">A tenacious and passionate developer that is always trying to expand the borders of my knowledge. Fundamentally intrigued by what can be achieved with code, I aim to bring enthusiasm and a new perspective to any project I am working on. Most recently I have been refining my Javascript by creating intricate engineering education sims but now I am branching out to show my React skills and develop my stack knowledge as well as begining my journey to unravel the blockchain, via Solidity.</h3>
+<h3 align="center">A tenacious and passionate developer that is always trying to expand the borders of my knowledge. Fundamentally intrigued by what can be achieved with code, I aim to bring enthusiasm and a new perspective to any project I am working on. Most recently I have been refining my Javascript by creating intricate engineering education sims examples of which can be found on [this page](https://www.mobiusinstitute.com/calculators-simulations-severity-charts/?utm_campaign=Mobius%20Institute%20Social%20English&utm_content=192828066&utm_medium=social&utm_source=linkedin&hss_channel=lcp-787164). NOTE: I did not create the sire on which they are being loaded. Just the sims.) but now I am branching out to show my React skills and develop my stack knowledge as well as begining my journey to unravel the blockchain, via Solidity.</h3>
 </div>
 
 <br>
