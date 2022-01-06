@@ -72,6 +72,12 @@ Unreal Engine<h4>
 <h4 align="center">Solidity<br>
 More React</h4>
 </div>
+  
+<div align="center">
+<h2 align="center">🤝 CERTIFICATES 🤝</h2>
+</div>
+  
+<img src='https://i.imgur.com/XDJBjjN.jpeg' alt="ReactJs Essentials Certificate" align="center" />
 
 
 
