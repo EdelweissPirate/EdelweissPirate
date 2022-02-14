@@ -4,7 +4,7 @@
 
 <br>
 
-###### Javascript - ReactJS - TailwindCSS - JSONWebToken Auth - NodeJS - ThreeJS - expressJS - REST APIs - HTML - CSS - Python
+###### <p align="center">Javascript - ReactJS - TailwindCSS - JSONWebToken Auth - NodeJS - ThreeJS - expressJS - REST APIs - HTML - CSS - Python</p>
 
 <br>
 
