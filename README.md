@@ -4,6 +4,10 @@
 
 <br>
 
+###### Javascript - ReactJS - TailwindCSS - JSONWebToken Auth - NodeJS - ThreeJS - expressJS - REST APIs - HTML - CSS - Python
+
+<br>
+
 <div align="center">
 <h1 align="center">
 📫 How to reach me - joshmarkevans@gmail.com 📫
