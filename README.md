@@ -42,7 +42,7 @@
 
 <br>
 
-<details>
+<details open>
   <summary>PROFICIENCIES</summary>
 
   <div align="center">
@@ -63,7 +63,7 @@
   
 <br>
     
-<details>
+<details open>
   <summary>LEARNING</summary>
 
   <div align="center">
