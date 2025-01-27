@@ -32,10 +32,10 @@
 
   <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=EdelweissPirate&count_private=true&show_icons=true&theme=darkhub&include_all_commits" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=EdelweissPirate&count_private=true&show_icons=true&theme=panda&include_all_commits" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdelweissPirate&theme=darkhub" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdelweissPirate&theme=panda" />
     </a>
   </div>
 </details>
