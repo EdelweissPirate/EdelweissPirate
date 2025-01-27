@@ -29,6 +29,9 @@
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img align="center" src="https://github-profile-trophy.vercel.app/?username=EdelweissPirate&rank=SSS,SS,S,AAA,AA,A,B,C&theme=darkhub&column=3" />
     </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdelweissPirate&theme=panda" />
+    </a>
   </div>
 
   <br>
@@ -36,9 +39,6 @@
   <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=EdelweissPirate&count_private=true&show_icons=true&theme=panda&include_all_commits" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdelweissPirate&theme=panda" />
     </a>
   </div>
 </details>
