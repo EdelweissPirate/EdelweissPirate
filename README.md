@@ -4,7 +4,7 @@
 
 <br>
 
-###### <p align="center">Javascript - ReactJS - TailwindCSS - Electron - NodeJS - MongoDB - ThreeJS - expressJS - REST APIs - HTML - CSS</p>
+###### <p align="center">Javascript - ReactJS - TailwindCSS - Electron - NodeJS - MongoDB - ThreeJS - expressJS - REST API - HTML - CSS - Rust - Solana - Anchor - NFT</p>
 
 <br>
 
