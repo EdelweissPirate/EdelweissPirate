@@ -24,7 +24,7 @@
   
   <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img align="center" src="https://github-profile-trophy.vercel.app/?username=EdelweissPirate&rank=SSS,SS,S,AAA,AA,A,B,C&theme=gruvbox&column=3" />
+      <img align="center" src="https://github-profile-trophy.vercel.app/?username=EdelweissPirate&rank=SSS,SS,S,AAA,AA,A,B,C&theme=darkhub&column=3" />
     </a>
   </div>
 
