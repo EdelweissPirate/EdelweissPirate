@@ -11,10 +11,13 @@
 <div align="center">
 <h1 align="center">
 <!-- 📫 How to reach me - joshmarkevans@gmail.com 📫 -->
+    <a href="https://portfolio-edelweisspirate.vercel.app/">
+        My Portfolio
+    </a>
 </h1>
-<a href="https://portfolio-edelweisspirate.vercel.app/">
+<!-- <a href="https://portfolio-edelweisspirate.vercel.app/">
     My Portfolio
-</a>
+</a> -->
 </div>
 
 <br>
@@ -39,38 +42,8 @@
     </a>
   </div>
 </details>
-
-<br>
-
-<details open>
-  <summary>PROFICIENCIES</summary>
-
-  <div align="center">
-    <h4 align="center">
-    Javascript<br>
-    HTML<br>
-    CSS<br>
-    SASS<br>
-    React<br>
-    Blender<br>
-    Unreal Engine<br>
-    Solana<br>
-    Rust<br>
-    Anchor<br>
-    <h4>
-  </div>
-</details>
   
 <br>
-    
-<details open>
-  <summary>LEARNING</summary>
-
-  <div align="center">
-    <h4 align="center">Solidity<br>
-    More React</h4>
-  </div>
-</details>
   
 <div align="center">
 <h2 align="center">🤝 CERTIFICATES 🤝</h2>
