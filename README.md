@@ -9,12 +9,12 @@
 <br>
 
 <div align="center">
-<h1 align="center">
+<h2 align="center">
 <!-- 📫 How to reach me - joshmarkevans@gmail.com 📫 -->
     <a href="https://portfolio-edelweisspirate.vercel.app/">
         My Portfolio
     </a>
-</h1>
+</h2>
 <!-- <a href="https://portfolio-edelweisspirate.vercel.app/">
     My Portfolio
 </a> -->
